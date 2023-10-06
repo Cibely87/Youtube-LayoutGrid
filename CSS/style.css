@@ -1,0 +1,41 @@
+/*HEADER*/
+
+.header-top {
+    display: flex;
+    justify-content: center;
+ }
+
+.header-top img {
+    margin-left: 32px;
+}
+
+.header-search {
+    margin-left: 356px;
+    margin-right: 356px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-search input {
+    width: 348px;
+    height: 40px;
+    border: 1px solid #c4abab;
+}
+
+.header-search button {
+    width: 57px;
+    height: 40px;
+}
+
+.header-alert {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap:24px;
+}
+
+.header-alert img {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+ }
