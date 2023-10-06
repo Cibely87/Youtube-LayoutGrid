@@ -1,5 +1,3 @@
-/*HEADER*/
-
 .header-top {
     display: flex;
     justify-content: center;
@@ -19,7 +17,7 @@
 .header-search input {
     width: 348px;
     height: 40px;
-    border: 1px solid #c4abab;
+    border: 1px solid #837373;
 }
 
 .header-search button {
@@ -39,3 +37,129 @@
     height: 34px;
     border-radius: 50%;
  }
+
+.content {
+    display: flex;
+}
+
+.sidebar {
+    width: Fixed (210px);
+    height: Fixed (960px);
+    top: 56px;
+    padding: 22px;
+    gap: 22px;
+    background: rgba(255, 255, 255, 1);
+}
+
+.list-videos {
+    width: 87.86%;
+    padding-top: 12px;
+    padding-right: 20px;
+    padding-left: 8px;
+    display: grid;
+    grid-template-columns: repeat(4, 282px);
+    grid-auto-rows: 250px;
+    justify-content: center;
+    gap: 14px;
+    background-color: #f1eded;
+}
+
+.videoOne {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoTwo {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoThree {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoFour {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoFive {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoSix {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoSeven {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoEight {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoNine {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
+
+.videoTen {
+    width: Hug (282px);
+    height: Fixed (262px);
+    top: 80px;
+    left: 246px;
+    padding: 16px;
+    border-radius: 4px;
+    gap: 16px;
+}
